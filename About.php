@@ -21,7 +21,7 @@
 <p><h2><span class="p1">Try It Yourself</span></h2><br/>
    <span class="p1">This Website offers an code which you can use on your own website development if you like,so <u>Try it yourself.</u><br/>
             By clicking on this link you will reach my git-hub account<br/>
-			   LINK : --------</span>
+			   LINK : https://github.com/HarshaPatel903</span>
 </p>
 <br/>
 <br/>
