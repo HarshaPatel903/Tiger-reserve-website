@@ -7,9 +7,9 @@
 	
 	
 	$host = 'sql6.freemysqlhosting.net';
-	$db = 'sql6438793';
+	$db = 'sql6442590';
 	$user = 'sql6438793';
-	$pass = 'gsK2iHfjGZ';
+	$pass = 'cjCbVjkXnv';
 	$charset = 'utf8mb4';
 	
 	$dsn = "mysql:host=$host;dbname=$db;charset=$charset";
